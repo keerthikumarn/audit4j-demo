@@ -1,0 +1,3 @@
+04/15/2023 18:05:23|-4315884129991769365|anonymous|0:0:0:0:0:0:0:1|GreetingsService.greet==>loggedInUsername java.lang.String:anonymous,
+04/15/2023 18:05:30|-3209572450274294686|anonymous|0:0:0:0:0:0:0:1|GreetingsService.greet==>loggedInUsername java.lang.String:anonymous,
+04/15/2023 18:06:14|-1030911683638377203|anonymous|0:0:0:0:0:0:0:1|GreetingsService.greet==>loggedInUsername java.lang.String:anonymous,
